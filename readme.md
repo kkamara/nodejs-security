@@ -1,6 +1,6 @@
 # nodejs-security [![Run CI](https://github.com/kkamara/nodejs-security/actions/workflows/node.js.yml/badge.svg)](https://github.com/kkamara/nodejs-security/actions/workflows/node.js.yml)
 
-Hash, Encrypt and Decrypt with NodeJS Crypto module.
+Hash, Encrypt and Decrypt with the NodeJS Crypto module.
 
 ## Installation
 
