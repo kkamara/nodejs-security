@@ -1,13 +1,14 @@
 # nodejs-security [![Run CI](https://github.com/kkamara/nodejs-security/actions/workflows/node.js.yml/badge.svg)](https://github.com/kkamara/nodejs-security/actions/workflows/node.js.yml)
 
-Hash, Encrypt and Decrypt with Node.js Crypto module.
+Hash, Encrypt and Decrypt with NodeJS Crypto module.
 
 ## Installation
 
-* [Node.js](https://nodejs.org/en/)
-* [yarn](https://yarnpkg.com/).
+* [NodeJS](https://nodejs.org/en/)
+* [Yarn](https://yarnpkg.com/).
 
 ```bash
+  npm install --global yarn
   cp .env.example .env
   yarn install
 ```
