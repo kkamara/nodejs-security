@@ -1,5 +1,5 @@
 {
-  "name": "nodejs-crypto",
+  "name": "nodejs-security",
   "version": "1.0.0",
   "description": "Hash, Encrypt and Decrypt with Node.js Crypto module.",
   "main": "src/app.js",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kkamara/nodejs-crypto.git"
+    "url": "git+https://github.com/kkamara/nodejs-security.git"
   },
   "author": "https://github.com/kkamara",
   "license": "BSD-3-Clause",
   "bugs": {
-    "url": "https://github.com/kkamara/nodejs-crypto/issues"
+    "url": "https://github.com/kkamara/nodejs-security/issues"
   },
-  "homepage": "https://github.com/kkamara/nodejs-crypto#readme",
+  "homepage": "https://github.com/kkamara/nodejs-security#readme",
   "dependencies": {
     "axios": "^0.21.1",
     "cookie-parser": "^1.4.4",
